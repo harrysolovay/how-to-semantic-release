@@ -1,3 +1,10 @@
+# [1.1.0-beta.2](https://github.com/harrysolovay/how-to-semantic-release/compare/v1.1.0-beta.1...v1.1.0-beta.2) (2020-04-20)
+
+
+### Bug Fixes
+
+* ensure alien worlds are friendly ([ac91241](https://github.com/harrysolovay/how-to-semantic-release/commit/ac91241f70c430dd2d911d6a41f5eb784e9a79dc))
+
 # [1.1.0-beta.1](https://github.com/harrysolovay/how-to-semantic-release/compare/v1.0.1-beta.1...v1.1.0-beta.1) (2020-04-20)
 
 
