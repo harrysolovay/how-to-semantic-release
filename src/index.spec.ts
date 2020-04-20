@@ -3,6 +3,6 @@ import {x} from ".";
 describe("test block", () => {
   it("test", () => {
     expect.assertions(1);
-    expect(x()).toStrictEqual("Hello alien worlds.");
+    expect(x()).toStrictEqual("Hello friendly alien worlds.");
   });
 });

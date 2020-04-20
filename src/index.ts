@@ -1,3 +1,3 @@
 export function x(): string {
-  return "Hello alien worlds.";
+  return "Hello friendly alien worlds.";
 }
