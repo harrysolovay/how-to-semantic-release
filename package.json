@@ -15,7 +15,7 @@
     "@types/jest": "^25.2.1",
     "husky": "^4.2.5",
     "jest": "^25.3.0",
-    "semantic-release": "^17.0.6",
+    "semantic-release": "^19.0.3",
     "ts-jest": "^25.4.0",
     "typescript": "^3.8.3"
   },
